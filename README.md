@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fifth-semester Computer Engineering student at Diponegoro University.
+I am a sixth-semester Computer Engineering student at Diponegoro University.
 
 
 ## 🌐 Socials:
